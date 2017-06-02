@@ -93,3 +93,4 @@ Attendize is open-sourced software licensed under the Attribution Assurance Lice
 * James Campbell ([Github](https://github.com/jncampbell))
 * JapSeyz ([Github](https://github.com/JapSeyz))
 * Mark Walet ([Github](https://github.com/markwalet))
+ticketing app
